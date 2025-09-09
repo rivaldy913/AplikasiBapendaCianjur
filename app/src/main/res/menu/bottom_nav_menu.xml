@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_layanan"
+        android:icon="@drawable/ic_tanyabapenda_whatsapp"
+        android:title="TanyaBapenda" />
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/placeholder_home_icon"
+        android:title="Beranda" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/placeholder_profile"
+        android:title="Profil" />
+
+</menu>

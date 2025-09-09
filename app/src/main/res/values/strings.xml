@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BapendaCjrApp</string>
+    <string name="edit_berita">Edit Berita</string>
+    <string name="simpan_perubahan">Simpan Perubahan</string>
+    <string name="input_berita_baru">Input Berita Baru</string>
+    <string name="tambah_berita">Tambah Berita</string>
+</resources>

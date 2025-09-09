@@ -1,0 +1,6 @@
+
+<!-- Buat file ini di res/drawable/rounded_button_secondary.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <solid android:color="#E0E0E0"/> <!-- Warna abu-abu secondary -->
+    <corners android:radius="12dp"/>
+</shape>
